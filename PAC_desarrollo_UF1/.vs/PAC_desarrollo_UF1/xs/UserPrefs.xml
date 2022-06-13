@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{66F51028-5E47-495A-AA78-4CEB37F99511}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PAC_desarrollo_UF1.cs">
+    <Files>
+      <File FileName="PAC_desarrollo_UF1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PAC_desarrollo_UF1" expanded="True">
+            <Node name="PAC_desarrollo_UF1" expanded="True">
+              <Node name="PAC_desarrollo_UF1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PAC__desarrollo__UF1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

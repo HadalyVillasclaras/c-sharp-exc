@@ -1,0 +1,12 @@
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/bin/Debug/netcoreapp3.1/PAC_desarrollo_UF1.deps.json
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/bin/Debug/netcoreapp3.1/PAC_desarrollo_UF1.runtimeconfig.json
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/bin/Debug/netcoreapp3.1/PAC_desarrollo_UF1.runtimeconfig.dev.json
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/bin/Debug/netcoreapp3.1/PAC_desarrollo_UF1.dll
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/bin/Debug/netcoreapp3.1/PAC_desarrollo_UF1.pdb
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.csprojAssemblyReference.cache
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.AssemblyInfoInputs.cache
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.AssemblyInfo.cs
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.csproj.CoreCompileInputs.cache
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.dll
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.pdb
+/Users/hadalyvillasclaras/Desktop/Hadaly/DAW/Programación/PAC_desarrollo_UF1/PAC_desarrollo_UF1/obj/Debug/netcoreapp3.1/PAC_desarrollo_UF1.genruntimeconfig.cache
